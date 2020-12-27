@@ -1,10 +1,12 @@
 package jeonghyun.week01;
 
 public class test {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("test");
+	
+	    public int strStr(String haystack, String needle) {
+	        
+	        if(needle == "")
+	            return 0;
+	        
+	        string strstr=needle.indexOf(0);
+	    }
 	}
-
-}
