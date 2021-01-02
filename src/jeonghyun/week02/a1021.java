@@ -9,6 +9,8 @@ public class a1021 {
 		
 		System.out.println(word);
 
+		
+		
 	}
 
 }

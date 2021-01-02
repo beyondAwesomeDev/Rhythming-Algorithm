@@ -7,6 +7,7 @@ public class a1024 {
 //		입력받은 단어(영어)의 각 문자를
 //		한줄에 한 문자씩 분리해 출력한다
 		
+		
 		Scanner sc = new Scanner(System.in);
 		String word = sc.next();
 		

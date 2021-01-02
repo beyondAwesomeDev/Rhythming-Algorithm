@@ -13,6 +13,7 @@ public class a1023 {
 		
 		System.out.println(arr[0] + " " + arr[1]);
 
+		
 	}
 
 }

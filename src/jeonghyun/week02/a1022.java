@@ -10,6 +10,7 @@ public class a1022 {
 		
 		System.out.println(sentence);
 
+		
 	}
 
 }

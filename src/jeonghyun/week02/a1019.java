@@ -14,8 +14,9 @@ public class a1019 {
 	    int month = Integer.valueOf(arr[1]);
 	    int day = Integer.valueOf(arr[2]);
 	    
-	    System.out.printf("%4d.%02d.%02d", year, month, day);
+	    System.out.printf("%4d.%02d.%02d", year,month,day);
 	    		
+	    
 		
 
 	}
