@@ -1,3 +1,4 @@
+package jeonghyun.week01;
 
 public class a1010 {
 

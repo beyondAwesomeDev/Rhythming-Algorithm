@@ -1,4 +1,7 @@
+package jeonghyun.week01;
+
 import java.util.Scanner;
+
 public class a1018 {
 
 	public static void main(String[] args) {
