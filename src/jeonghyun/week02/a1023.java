@@ -1,3 +1,5 @@
+package jeonghyun.week02;
+
 import java.util.Scanner;
 
 public class a1023 {

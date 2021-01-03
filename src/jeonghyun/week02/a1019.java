@@ -1,3 +1,5 @@
+package jeonghyun.week02;
+
 import java.util.Scanner;
 
 public class a1019 {
@@ -16,9 +18,6 @@ public class a1019 {
 	    
 	    System.out.printf("%4d.%02d.%02d", year,month,day);
 	    		
-	    
-		
-
 	}
 
 }
