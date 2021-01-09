@@ -12,7 +12,7 @@ public class a1025 {
 		
 		for(int i=0;i<ch.length;i++) {
 			System.out.print("[" + ch[i]);
-			for(int j=ch.length-1;j>i;j--) {
+			for(int j=ch.length-1;j>i;j--) {   // j>i => 입력을 받는 자리 숫자
 				System.out.print("0");
 			}
 			System.out.print("]\n");
