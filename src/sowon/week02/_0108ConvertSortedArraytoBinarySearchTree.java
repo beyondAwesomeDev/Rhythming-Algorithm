@@ -1,6 +1,6 @@
 package sowon.week02;
 
-public class _108ConvertSortedArraytoBinarySearchTree {
+public class _0108ConvertSortedArraytoBinarySearchTree {
   //이진트리만들기
   public TreeNode sortedArrayToBST(int[] nums) {
     if (nums.length == 0) return null;
