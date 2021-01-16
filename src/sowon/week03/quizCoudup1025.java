@@ -23,7 +23,7 @@ public class quizCoudup1025 {
         }
         System.out.printf("]\n");
     }
-     */
+    */
 
     // sol2 => memory 11388 time 81
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -37,5 +37,7 @@ public class quizCoudup1025 {
       }
       System.out.printf("]\n");
     }
+   
   }
+  
 }
