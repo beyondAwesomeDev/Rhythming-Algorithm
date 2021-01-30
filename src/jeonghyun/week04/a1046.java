@@ -14,8 +14,8 @@ public class a1046 {
 		sc.close();
 		
 		double avg = (a + b + c)/3;
-		//System.out.println("합 : " + a+b+c + "\n평균 : " + avg);
-		System.out.printf("%d\n%.1f", a+b+c, avg);
+		System.out.println("합 : " + (a+b+c) + "\n평균 : " + avg);
+		//System.out.printf("%d\n%.1f", a+b+c, avg);
 		
 
 	}
