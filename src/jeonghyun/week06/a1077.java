@@ -13,7 +13,7 @@ public class a1077 {
 		for(int i=0;i<=a;i++) {  // for문 사용
 			System.out.println(i);
 		}
-
+		
 	}
 
 }

@@ -23,7 +23,6 @@ public class a1080 {
 			
 		}
 		
-		
 
 	}
 

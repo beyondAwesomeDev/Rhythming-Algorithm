@@ -17,7 +17,6 @@ public class a1078 {
 				
 			}
 		}
-		
 		System.out.println(sum);
 
 	}

@@ -17,8 +17,6 @@ public class a1076 {
 		}
 		
 		
-		
-
 	}
 
 }
