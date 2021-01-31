@@ -1,7 +1,6 @@
 package sowon.week05;
 
-import java.util.HashSet;
-import java.util.Set;
+import java.util.Arrays;
 
 public class _0217ContainsDuplicate {
   public static boolean containsDuplicate(int[] nums) {
@@ -17,17 +16,19 @@ public class _0217ContainsDuplicate {
       }
     }
     return isDuplicated;
-*/
+     */
+    
     //sol2 Runtime 3 ms Memory 41.9 MB
-    /*
-    Arrays.sort(nums);
+    
+    Arrays.sort(nums); //1 1 2 3
     for(int i=0; i< nums.length-1; i++){
       if(nums[i] == nums[i+1]) return true;
     }
     return false;
-    */
+    
 
     //sol3 Runtime 6 ms Memory 45.2 MB
+    /*
     Set<Integer> numSet = new HashSet<>();
     for(int i:nums){
       if(numSet.contains(i)){
@@ -37,6 +38,8 @@ public class _0217ContainsDuplicate {
       }
     }
     return false;
+    */
+   
   }
 
   public static void main(String[] args) {
