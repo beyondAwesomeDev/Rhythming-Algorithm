@@ -1,6 +1,8 @@
 package sowon.week09;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 public class PickingNumbers {
 	//absolute difference 절대편차 <= 1 일때의 가장 긴 list의 길이를 출력하는 뮨제이다
