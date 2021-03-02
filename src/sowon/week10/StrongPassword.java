@@ -1,15 +1,11 @@
 package sowon.week10;
 
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
 public class StrongPassword {
 
   static int minimumNumber(int n, String password) {
     // 조건에 맞는 6자리 이상의 비번이 되기위해서 필요한 자리수를 출력하는 문제
 
     //sol1
-    /*
     String numbers = "0123456789";
     String lower_case = "abcdefghijklmnopqrstuvwxyz";
     String upper_case = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
@@ -22,12 +18,12 @@ public class StrongPassword {
     Boolean isSpecial_characters = false;
 
     int minNum = 0;
-    
+ 
     //조건이 참이면 해당 조건 값을 true로 변경
     for (String s : password.split("")) {
       if(numbers.contains(s)) isNumbers = true; 
-      if(lower_case.contains(s)) isLower_case = true;
-      if(upper_case.contains(s)) isUpper_case = true;
+      if(lower_case.contains(s)) isLower_case = true; 
+      if(upper_case.contains(s)) isUpper_case = true; 
       if(special_characters.contains(s)) isSpecial_characters = true;
     }
     
@@ -35,16 +31,17 @@ public class StrongPassword {
     if(!isNumbers) minNum++;
     if(!isLower_case) minNum++;
     if(!isUpper_case) minNum++;
-    if(!isSpecial_characters) minNum++;
+    if(!isSpecial_characters) minNum++; 
 
     return minNum < 6 - n ? 6 - n : minNum;
-    */
-
+          
     //sol2 정규식사용
+    /*
     int minNum = 0;
 
     Pattern numbers = Pattern.compile("[0-9]");
     Matcher m = numbers.matcher(password);
+    //System.out.println("m: "+m);
     if(!m.find()) minNum++;
 
     Pattern lower_case = Pattern.compile("[a-z]");
@@ -60,6 +57,7 @@ public class StrongPassword {
     if(!m.find()) minNum++;
 
     return 6 > minNum + n ? 6 - n : minNum;
+    */
   }
 
   public static void main(String[] args) {
