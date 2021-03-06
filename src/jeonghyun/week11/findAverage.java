@@ -16,7 +16,6 @@ public class findAverage {
     }
 	
 	
-	
 
 	public static void main(String[] args) {
 		

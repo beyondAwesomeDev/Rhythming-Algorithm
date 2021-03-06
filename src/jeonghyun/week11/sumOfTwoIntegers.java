@@ -22,7 +22,6 @@ public class sumOfTwoIntegers {
 	    	
 	    }
 	
-	
 
 	public static void main(String[] args) {
 		

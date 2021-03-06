@@ -24,6 +24,7 @@ public class noSameNumber {
             }
         }
         
+        
         answer = new int[list.size()];
         for(int i=0; i<list.size(); i++){
             answer[i] = list.get(i);

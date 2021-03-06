@@ -14,7 +14,6 @@ public class mockTest {
 	    for(int i=0; i<answer.length; i++) {
 	         if(answer[i] == a[i%a.length]) {
 	        	 score[0]++;
-	        	 
 	         }
 	            if(answer[i] == b[i%b.length]) {
 	            	score[1]++;
