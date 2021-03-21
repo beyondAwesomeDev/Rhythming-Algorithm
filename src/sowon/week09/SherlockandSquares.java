@@ -1,17 +1,24 @@
 package sowon.week09;
 
 public class SherlockandSquares {
-	static int squares(int a, int b) {
+	static int squares(int a, int b) { // 3 4 5 6 7 8 9 => 2
 		// 주어진 수의 범위안에 제곱근(square integer)을 구하는 문제
 		//sol1
-		int start = (int) Math.sqrt(a);
-		int end = (int) Math.sqrt(b);
-		
+	    // 예시 Math.sqrt(9) = 3.0
+		int start = (int) Math.sqrt(a);  
+		int end = (int) Math.sqrt(b); 
+//		System.out.println("a: "+a+", b: "+b+", Math.sqrt(a): "+start+", Math.sqrt(b): "+end + ", Math.pow(start, 2):" + Math.pow(start, 2));
+
+		// 예시 Math.pow(3, 2) = 9.0  (3*3)
 		start = (Math.pow(start, 2) >= a) ? start-1 : start;
 
+//		System.out.println("start: "+start+", end: "+end);
 		return end - start;
 		
-		//sol2. one line code
+		// sol2. one line code
+		// floor -> 내림 (바닥으로 floor)
+		// ceil  -> 올림 (천장으로 ceiling)
+		// round -> 반올림 (반올림 round)
 //		return (int) Math.floor(Math.sqrt(b)) - (int) Math.ceil(Math.sqrt(a)) + 1;
 	}
 
