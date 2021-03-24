@@ -12,7 +12,6 @@ public class hk_SherlockandSquares {
 		return (b_sqrt - a_sqrt) + 1;
 		
 		
-		
     }
 
 
