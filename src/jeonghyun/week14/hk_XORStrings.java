@@ -12,8 +12,6 @@ public class hk_XORStrings {
                 res += "1";
         }
         
-        
-
         return res;
     }
 	
