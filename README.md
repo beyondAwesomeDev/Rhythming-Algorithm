@@ -5,7 +5,7 @@ Practicing together for Algorithm coding test
 100 Algorithms Challenge
 
 # ⏲️ Schedule 
-- 2020.12.27 ~ 2021.04.18 (17 times)
+- 2020.12.27 ~ 2021.04.25 (17 times)
 - for an hour every Sunday 11a.m.(KST)
 - Please note that the time of the meeting is flexible
 
