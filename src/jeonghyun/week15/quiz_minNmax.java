@@ -14,6 +14,7 @@ public class quiz_minNmax {
 		int max = -1000000;
 		int min = 1000000;
 		
+		
 		for(int i=0;i<num;i++) {
 			arr[i] = sc.nextInt();
 	//		System.out.println(arr[i]);
