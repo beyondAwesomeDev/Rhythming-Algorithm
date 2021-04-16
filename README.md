@@ -2,11 +2,12 @@
 Practicing together for Algorithm coding test
 
 # 🗺️ Goal
-100 Algorithms Challenge
+- Saeson1: 100 Algorithms Challenge
+- Saeson2: 30 Algorithms Challenge
 
 # ⏲️ Schedule 
-- 2020.12.27 ~ 2021.04.25 (17 times)
-- for an hour every Sunday 11a.m.(KST)
+- Saeson1: 2020.12.27 ~ 2021.04.25 (17 times) Every Sunday 11a.m.(KST) on Zoom
+- Saeson2: 2021.04.26 ~ 2021.05.30 (5 times) Every Sunday 11a.m.(KST) on Zoom
 - Please note that the time of the meeting is flexible
 
 # ✏️ How to study
@@ -16,4 +17,4 @@ Practicing together for Algorithm coding test
 1. Hold a discussion about the quiz each member bring and Share solutions
 
 # 📜 Quiz List
-- [Weekly Quiz](https://github.com/beyondAwesomeDev/Rhythming-Algorithm/wiki/Weekly-Quiz)
+- Please find Wiki
