@@ -36,6 +36,7 @@ public class bj_2490 {
 			}
 		}
 		
+		
 	}
 
 	

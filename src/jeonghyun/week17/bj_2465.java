@@ -18,6 +18,7 @@ public class bj_2465 {
 		
 		List.add(-1);
 		
+		
 		// 학생 수 만큼 번호 넣기
 		for(int i=1;i<=N;i++) {
 			int num = sc.nextInt();

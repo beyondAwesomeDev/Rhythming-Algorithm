@@ -7,6 +7,7 @@ public class bj_2399 {
 	// 백준 2399번 - 거리의 합
 	public static void main(String[] args) {
 		
+		
 		Scanner sc = new Scanner(System.in);
 		int N = sc.nextInt();
 		int[] x = new int[N];

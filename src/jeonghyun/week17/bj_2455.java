@@ -22,9 +22,8 @@ public class bj_2455 {
 			
 			if(ans < people)
 				ans = people;
-				
 		}
-		
+	
 		System.out.println(ans);
 
 	}

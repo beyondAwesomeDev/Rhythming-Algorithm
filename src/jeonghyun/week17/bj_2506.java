@@ -30,7 +30,6 @@ public class bj_2506 {
 		}
 		
 		System.out.println(sum);
-
 	}
 
 }
