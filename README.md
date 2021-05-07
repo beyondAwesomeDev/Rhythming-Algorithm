@@ -7,7 +7,7 @@ Practicing together for Algorithm coding test
 
 # ⏲️ Schedule 
 - Saeson1: 2020.12.27 ~ 2021.04.25 (17 times) Every Sunday 11a.m.(KST) on Zoom
-- Saeson2: 2021.04.26 ~ 2021.05.30 (5 times) Every Sunday 11a.m.(KST) on Zoom
+- Saeson2: Up in the air
 - Please note that the time of the meeting is flexible
 
 # ✏️ How to study
